@@ -128,5 +128,6 @@ public class Stack<Item> implements Iterable<Item> {//实现迭代接口
             System.out.println(stack.pop());//这里的item是泛型
         }
 
+
     }
 }
